@@ -9,6 +9,7 @@
             <input type="email" name="email" placeholder="insira seu email">
             <input type="password" name="senha" placeholder="insira sua senha">
             <input type="submit"value="cadastrar">
+            <a href= "consulta.php">Ir para consulta</a>
 
         </form>
 
